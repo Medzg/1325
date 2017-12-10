@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Event" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1350.000000, -44.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="menu" transform="translate(1350.000000, 44.000000)">
+                <polygon id="Shape" points="0 19 2.4390232e-06 14.1804878 0 14 0.206460875 14 5 14 5 19"></polygon>
+                <polygon id="Shape" points="7 19 7.00000244 14.1804878 7 14 7.20646331 14 12 14 12 19"></polygon>
+                <polygon id="Shape" points="14 19 14.0000024 14.1804878 14 14 14.2064633 14 19 14 19 19"></polygon>
+                <polygon id="Shape" points="0 12 2.4390232e-06 7.18051237 0 7 0.206460875 7 5 7 5 12"></polygon>
+                <polygon id="Shape" points="7 12 7.00000244 7.18051237 7 7 7.20646331 7 12 7 12 12"></polygon>
+                <polygon id="Shape" points="14 12 14.0000024 7.18051237 14 7 14.2064633 7 19 7 19 12"></polygon>
+                <polygon id="Shape" points="7 5 7.00000244 0.1805 7 0 7.20646087 0 12 0 12 5"></polygon>
+                <polygon id="Shape" points="14 5 14.0000024 0.1805 14 0 14.2064633 0 19 0 19 5"></polygon>
+                <polygon id="Shape" points="0 5 2.4390232e-06 0.1805 0 0 0.206460875 0 5 0 5 5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
