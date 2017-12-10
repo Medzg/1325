@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Event" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-160.000000, -4200.000000)" fill="#4A4A4A">
+            <g id="Block-3" transform="translate(0.000000, 3162.000000)">
+                <g id="Tweets" transform="translate(20.000000, 650.000000)">
+                    <g id="Tweet-1" transform="translate(120.000000, 0.000000)">
+                        <path d="M20,391.243333 C20,394.509634 23.7371443,396.999617 25.6756412,398 C27.6138829,396.999617 31.3512824,394.509634 31.3512824,391.243333 C31.3512824,389.520735 30.1224959,388 28.2432053,388 C26.9888988,388 26.2437157,388.67143 25.6756412,389.621539 C25.1075667,388.67143 24.3623836,388 23.1080771,388 C21.2287865,388 20,389.520735 20,391.243333 Z" id="Fill-1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
